@@ -5,4 +5,5 @@ function Child({ onChangeColor }) {
   return <div className="child" style={{ backgroundColor: "#FFF" }} />;
 }
 
+
 export default Child;
